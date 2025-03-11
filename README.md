@@ -1,4 +1,4 @@
-3ZuKr6XmavwfnfUfHJDyqryqcKsVFerdfrhugr8cY1Pb## Quickstart
+lo3ZuKr6XmavwfnfUfHJDyqryqcKsVFerdfrhugr8cY1Pb## Quickstart
 
 ```bash
 # This will start with an in memory database.
